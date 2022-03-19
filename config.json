@@ -13,7 +13,7 @@
   "clock_format": "%H:%M",
 
   // API key for the forecast.io weather service
-  "forecastio_api_key": "bb6bb9af70b9742d84883be1aa354346",
+  "forecastio_api_key": "b69356d9528a38766c4e48dd6ca19eec",
 
   // Determines which Panels are loaded and in which order they
   // appear in the radio's UI.
