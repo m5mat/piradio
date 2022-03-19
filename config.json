@@ -20,17 +20,19 @@
   "panels": [
     ["RadioPanel", {
       // Map station name -> stream URL
-      "B5 Aktuell": "http://gffstream.ic.llnwd.net/stream/gffstream_w14b",
-      "FM4": "http://mp3stream1.apasf.apa.at:8000",
-      "M94.5": "http://stream.m945.mwn.de:80/m945-hq.mp3",
-      "SomaFM": "http://voxsc1.somafm.com:3000",
-      "Bob Marley Radio": "http://listen.radionomy.com/bob-marley",
-      "Radio 2day": "http://stream2.radio2day.ip-streaming.net:80/radio2day",
-      "Byte.FM": "http://streamingserver05.byte.fm:8000/",
-      "Rock Antenne": "http://mp3.webradio.rockantenne.de:80",
-      "Substanz FM": "http://streamplus36.leonex.de:21806",
-      "CBC Vancouver": "http://8283.live.streamtheworld.com:80/CBC_R1_VCR_H_SC",
-      "Co-op Radio": "http://5.39.66.196:9025/cfro-64k-mp3"
+      // BBC URLs here: https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3
+      "BBC Radio 1": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one",
+      "BBC Radio 1Xtra": "http://stream.live.vc.bbcmedia.co.uk/bbc_1xtra",
+      "BBC Radio 2": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two",
+      "BBC Radio 3": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three",
+      "BBC Radio 4": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm",
+      "BBC Radio 4 (LW)": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourlw",
+      "BBC Radio 4 Extra": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra",
+      "BBC Radio 5 Live": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live",
+      "BBC Radio 5 Live Sports Extra": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_sports_extra",
+      "BBC Radio 6 Music": "http://stream.live.vc.bbcmedia.co.uk/bbc_6music",
+      "BBC World Service": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+      "BBC Radio Gloucestershire": "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_gloucestershire"
     }],
     ["ClockPanel", {}],
     ["AlarmPanel", {}],
