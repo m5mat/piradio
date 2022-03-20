@@ -53,16 +53,12 @@
     // ["AnimationTestPanel", {}],
     ["ShootEmUpGamePanel", {}],
     ["RandomPodcastPanel", {
-      "title": "Domian",
-      "url": "http://domian.alpha-labs.net/domian.rss"
+      "title": "Ham Radio Workbench",
+      "url": "https://workbench.libsyn.com/rss"
     }],
     ["RandomPodcastPanel", {
-      "title": "Less Conversation",
-      "url":"http://lessconversation.podomatic.com/rss2.xml"
-    }],
-    ["RandomPodcastPanel", {
-      "title": "Savage Lovecast",
-      "url":"http://savagelove.savagelovecast.libsynpro.com/rss"
+      "title": "ICQ Podcast",
+      "url":"http://icqpodcast.libsyn.com/rss"
     }]
   ]
 }
